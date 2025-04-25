@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Meter
+comment1.params=
+comment1.target=void\ act()
+comment2.params=num
+comment2.target=void\ addMeter(int)
+comment3.params=num
+comment3.target=void\ subtractMeter(int)
+comment4.params=
+comment4.target=int\ getMeter()
+comment5.params=
+comment5.target=void\ updateText()
+numComments=6

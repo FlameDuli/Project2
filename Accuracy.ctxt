@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Accuracy
+comment1.params=
+comment1.target=void\ act()
+comment2.params=noteAccuracy
+comment2.target=void\ updateAccuracy(int)
+comment3.params=
+comment3.target=void\ updateAccuracyText()
+comment4.params=
+comment4.target=double\ getAccuracy()
+comment5.params=
+comment5.target=void\ updateText()
+numComments=6
